@@ -1,4 +1,4 @@
-# dongguk_Jrk
+# 동국대학교 강종렬 석사논문
 Google Cloud Vision을 이용하여 뉴스데이터에서는 이미지에서 label을 추출,
 동국대학교 홈페이지에서는 감지된 text를 추출
 이를 본문의 내용과 결합
