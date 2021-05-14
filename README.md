@@ -3,8 +3,9 @@ SentenceTokenizer 클래스 의 text2sentences() 함수에서 kkma 를 이용해
 get_nouns() 함수에서 twitter(0kt) 를 이용하여 문장에서 명사 추출, 불용어 제거
 
 GraphMaxrix 클래스 에서 매트릭스 추출
-CountVectorize 계산
+CountVectorize , TF-IDF 계산
 
+위를 바탕으로
 Rank 클래스에서 단어별 TextRank 계산 
 
 TextRank 클래스를 통해 텍스트 하나당 10개의 키워드로 추출
@@ -19,4 +20,4 @@ Google Cloud Vision을 이용하여 뉴스데이터에서는 이미지에서 lab
 이를 본문의 Matrix에 결합
 
 
-위를 토대로 각각의 키워드 추출 및 
+위를 토대로 각각의 키워드 추출 및 저장
